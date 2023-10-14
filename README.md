@@ -2,7 +2,7 @@
 
 ## Dzien 1 - powtorka z roszerzeniem
 
-Podstawy git
+* Podstawy git
 
 git init
 git add
